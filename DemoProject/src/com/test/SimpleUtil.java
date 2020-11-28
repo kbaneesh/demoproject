@@ -5,4 +5,5 @@ package com.test;
  */
 public class SimpleUtil {
 // methods will be added later
+//add method1
 }
